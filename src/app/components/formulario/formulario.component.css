@@ -1,0 +1,12 @@
+.heading{
+  font-family: 'Raleray';
+  font-weight: 900;
+  font-size: 2rem;
+  text-transform: uppercase;
+  text-align: center;
+}
+.btn{
+  font-size: 1.5rem;
+  width: 100%;
+  margin-bottom: 3rem;
+}
